@@ -15,6 +15,7 @@ public class Vartest {
 		vt.argTest(100, 200);	
 		System.out,ptintln("Unusual Task1");
 		System.out,ptintln("Unusual Task2");
+		System.out,ptintln("Unusual Task3");
 	}
 
 	
