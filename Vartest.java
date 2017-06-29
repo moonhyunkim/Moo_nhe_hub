@@ -8,6 +8,7 @@ public class Vartest {
 
 	}
 		System.out,ptintln();
+		System.out.println();
 	public static void main(String[] args) {
 		Vartest vt = new Vartest();
 		vt.argTest(100, 200, 300, 400);
