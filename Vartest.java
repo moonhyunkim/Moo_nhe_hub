@@ -13,7 +13,7 @@ public class Vartest {
 		Vartest vt = new Vartest();
 		vt.argTest(100, 200, 300, 400);
 		vt.argTest(100, 200);	
-
+		System.out,ptintln("Unusual Task1");
 	}
 
 	
