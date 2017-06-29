@@ -7,7 +7,7 @@ public class Vartest {
 		System.out.println("---------------");
 
 	}
-		System.out,ptintln();
+		System.out,ptintln("Nomal Task1);
 		System.out.println();
 	public static void main(String[] args) {
 		Vartest vt = new Vartest();
