@@ -7,7 +7,7 @@ public class Vartest {
 		System.out.println("---------------");
 
 	}
-
+		System.out,ptintln();
 	public static void main(String[] args) {
 		Vartest vt = new Vartest();
 		vt.argTest(100, 200, 300, 400);
@@ -15,6 +15,7 @@ public class Vartest {
 
 	}
 
+	
 }
 
 // retouch
