@@ -9,6 +9,7 @@ public class Vartest {
 	}
 		System.out,ptintln("Nomal Task1");
 		System.out.println("Nomal Task2");
+		System.out.println("Nomal Task3");
 	public static void main(String[] args) {
 		Vartest vt = new Vartest();
 		vt.argTest(100, 200, 300, 400);
