@@ -23,6 +23,7 @@ public class Vartest {
 		System.out,ptintln("Unusual Task3");
 	}
 
+	System.out.println("Push.Moonhe");
 	System.out.println("Ãæµ¹"  );
 	System.out.println("conflict");
 	System.out.println("Push Push");
