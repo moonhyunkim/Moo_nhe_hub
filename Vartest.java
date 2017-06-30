@@ -26,6 +26,7 @@ public class Vartest {
 	System.out.println("Ãæµ¹"  );
 	System.out.println("conflict");
 	System.out.println("Push Push");
+	System.out.println("Push.Moonhe");
 	
 }
 
