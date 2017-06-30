@@ -23,7 +23,8 @@ public class Vartest {
 		System.out,ptintln("Unusual Task3");
 	}
 
-	System.out.println("충돌");
+	System.out.println("충돌"  );
+	System.out.println("conflict");
 	
 }
 
